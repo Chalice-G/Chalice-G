@@ -1,5 +1,5 @@
 # Nice to meet you
-Hello, I am Ng Wai Chun. A student studying Civil Engeering currently in Guangzhou.
+Hello, I am Ng Wai Chun. A student studying Civil Engeering in Guangzhou.
 
 ## My blog
 - [Myouth.xyz](Myouth.xyz)
