@@ -3,9 +3,7 @@ Hello, I am Ng Wai Chun. A student studying Civil Engeering currently in Guangzh
 
 ## My blog
 - [Myouth.xyz](Myouth.xyz)
- 
-![myouth](https://user-images.githubusercontent.com/68186151/200757534-100e8791-8b87-424f-870b-d6ef03ca0a29.png)
-
+![myouth](https://user-images.githubusercontent.com/68186151/200757766-1bbaaf17-175a-40b4-8ae9-f4ef7fd7235c.png)
 
 
 > Record what I saw and thought
