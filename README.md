@@ -1,8 +1,12 @@
 # Nice to meet you
 Hello, I am Ng Wai Chun. A student studying Civil Engeering in Guangzhou.
 
-<img src="https://github-readme-stats.vercel.app/api?username=Chalice-G&count_private=true&show_icons=true" height="200px" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chalice-G&layout=compact&langs_count=10" height="200px" />
-
+<a href="https://github.com/chalice-g">
+  <img align='center'src="https://github-readme-stats.vercel.app/api?username=chalice-g&show_icons=true" height="200px" />
+</a>
+<a href="https://github.com/chalice-g">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chalice-g" height="200px" />
+</a>
 
 ## My blog
 - [Myouth.xyz](Myouth.xyz)
